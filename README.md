@@ -10,6 +10,7 @@ Zhijiang Wang
 # Prototype 
 ####
   -Link to the Figma prototype (Emma)
+  
   -Link to the Picture Prototype (Chuike)
   -Link to the Arduino Prototype (Lena)
   -Instructions for how to deploy and use it, any login credentials; (Emma, Chuike, Lena)
