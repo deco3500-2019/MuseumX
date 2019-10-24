@@ -12,22 +12,19 @@ Zhijiang Wang
   -Instructions for how to deploy and use it, any login credentials;
   
 # Project Overview
-#### Problem space
+#### Problem space (Emma)
   
 #### Design process
     how did you tackle this problem? Use images and extended captions to
     explain the design process and how your ideas evolved. Mention any limitations and
     relevant theory.
-
-#### Task allocation
+         
+    - Process diagram (Zhijiang)
+    - How Ideas Evolved (Zhijiang)
+    - Workshop design (Lena)
+    - Workshop process & results (Chuike)
+    - Final Prototype Deign (Lena)
+    - Results & future improvements (Chuike)
+    
+#### Task allocation (Emma)
 #Documentation
-
-
-
-#### Research
-
-#### Design
-
-#### Testing
-
-#### Future development
