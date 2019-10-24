@@ -28,6 +28,20 @@ Zhijiang Wang
 ##### Process diagram (Zhijiang)
 ![diagram-01](https://user-images.githubusercontent.com/54301507/67487873-121cce00-f6b2-11e9-8a45-0e3cbe88fff5.png)
 ##### How Ideas Evolved (Zhijiang)
+We generate several ideas based on the insights we gained from literature review and contextual enquiry.
+
+###### tage1
+The original concept is named “about the artist(token projection)”, This is a pocket-sized tangible projection that will be given (optional/ if they want it) to visitors upon entering the gallery. There are sockets allocated to each artwork and the gadget is pluggable to them. When the visitor plugs their gadget into the socket, then the token will  project background information about and digital version of this artwork.
+
+###### Stage2 
+Then our group reviewing this concept from several aspects. Although the projection feature enable user to see more details about the artwork and description, there are limitations about this concept. first is the technique issue, it is hard to integrate the projection with token, which require massive works and it is not necessary for users to carry this device , if there is no unique experience.
+
+###### Stage3 
+Then we put our sights back to the literature review, the study of shared mobile display for this space (Lanir, Wecker, Kuflik, & Felberbaum, 2016) does indicate that a shared larger display does motivate group cohesion, should everyone participate in a collective tour of the exhibition. And the previous research from also indicated that visitors evoked "rich sensory relationships to some of the tangible objects" and that people valued them as a physical reminder of their interaction in a museum. Based on these insights we develop our concept to be a digital screen which allow user to zoom in and zoom out. Also for making this experience more unique, we added “face into the painting features”. 
+
+###### Stage4 
+Due to this is a quite special feature, we are not sure the user’s acceptance. We conducted a workshop to test user’s acceptance and motivations. The participants are asked to provide their personal hobby and favourite colour. Then we provide the similar theme painting for them. Regarding the feedbacks, we found that most participants did not form connections based on the description provided. The information in the description may not have been specifically connected to the keywords provided for the participants in the workshop. So we decided to find keywords from artwork first by digging deep story of the painting, then provide users keywords. 
+
 ##### Workshop Design
 After the final concept was established and discussed, the team decided to organize a design workshop. The team decided to use this design method in the research as it was considered as a most useful step at this stage of the project which will allow not only to evaluate our idea but also help to invite users to the co-design process. The co-design process was most appropriate at this stage: instead of providing users with possible solutions, it was interesting to get inspirations from users and don’t limit them with the existing ideas. 
 
