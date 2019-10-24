@@ -25,8 +25,8 @@ Zhijiang Wang
     explain the design process and how your ideas evolved. Mention any limitations and
     relevant theory.
          
-    - Process diagram (Zhijiang)
-    - How Ideas Evolved (Zhijiang)
+##### Process diagram (Zhijiang)
+##### How Ideas Evolved (Zhijiang)
 ##### Workshop Design
 After the final concept was established and discussed, the team decided to organize a design workshop. The team decided to use this design method in the research as it was considered as a most useful step at this stage of the project which will allow not only to evaluate our idea but also help to invite users to the co-design process. The co-design process was most appropriate at this stage: instead of providing users with possible solutions, it was interesting to get inspirations from users and don’t limit them with the existing ideas. 
 
