@@ -27,7 +27,8 @@ Zhijiang Wang
          
     - Process diagram (Zhijiang)
     - How Ideas Evolved (Zhijiang)
-    - Workshop design (Lena)
+#Workshop Design
+
     - Workshop process & results (Chuike)
     - Final Prototype Deign (Lena)
     - Results & future improvements (Chuike)
