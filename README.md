@@ -30,7 +30,7 @@ Zhijiang Wang
 ##### How Ideas Evolved (Zhijiang)
 We generate several ideas based on the insights we gained from literature review and contextual enquiry.
 
-###### tage1
+###### stage1
 The original concept is named “about the artist(token projection)”, This is a pocket-sized tangible projection that will be given (optional/ if they want it) to visitors upon entering the gallery. There are sockets allocated to each artwork and the gadget is pluggable to them. When the visitor plugs their gadget into the socket, then the token will  project background information about and digital version of this artwork.
 
 ###### Stage2 
