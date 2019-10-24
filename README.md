@@ -26,6 +26,7 @@ Zhijiang Wang
     relevant theory.
          
 ##### Process diagram (Zhijiang)
+![diagram-01](https://user-images.githubusercontent.com/54301507/67487873-121cce00-f6b2-11e9-8a45-0e3cbe88fff5.png)
 ##### How Ideas Evolved (Zhijiang)
 ##### Workshop Design
 After the final concept was established and discussed, the team decided to organize a design workshop. The team decided to use this design method in the research as it was considered as a most useful step at this stage of the project which will allow not only to evaluate our idea but also help to invite users to the co-design process. The co-design process was most appropriate at this stage: instead of providing users with possible solutions, it was interesting to get inspirations from users and don’t limit them with the existing ideas. 
