@@ -10,6 +10,7 @@ Zhijiang Wang
 # Prototype 
 
 [Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+
 [Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
 
 # Project Overview
