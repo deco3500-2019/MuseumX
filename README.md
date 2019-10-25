@@ -8,27 +8,10 @@ Zhijiang Wang
 # Inside Art
 ![Zhijiang_final-01](https://user-images.githubusercontent.com/54301507/67284828-b3245100-f519-11e9-84e2-40e98d0f1258.png)
 # Prototype 
-####
-Access [Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
 
-  
-  -Instructions for how to deploy and use it, any login credentials; (Emma, Chuike, Lena)
-  For picture in Prototype:
-  - downloand and open SOMO project 3 in Visual Studio Code (the blue one)
-  - open index.html to see keywords listed at the top of the page
-  - add photo to the images folder in SOMO project 3
-  - save photo name as keyword (ending file name with .png) corresponding to keyword chosen by participant
-  - refresh index.html in browser window
-  - 'select' or 'click' the keyword button at the top of the page
-  - the participant's image will go to keyword position on the artwork
-  - find participant's image
-  - click on participants image to reveal a description specific to the keyword only
-  - close that description click 'x'
-  - to form a new connection, save image as a new keyword (ending filename with .png)
-  - click on the corresponding keyword button on index.html
-  - find participant's image and click on it to reveal description specific to that keywork only
-  - there are 8 keywords in this prototype (the process can be repeated 8 times)
-  
+[Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+[Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
+
 # Project Overview
 #### Problem space 
   
