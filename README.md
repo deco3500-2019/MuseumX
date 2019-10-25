@@ -69,8 +69,17 @@ Lena Panova:
   - Initial protocol of the Design Worshop
   - Tangible devise (Arduino)
   - Pop-up windows with description (HTML/CSS/JavaScript)
-  
+
+Emma Safarova 
+   - Museum's observations
+   - Analysis of 1st round interviews 
+   - Interactive prototype for the first part of the interaction 
+
+
  Zhijiang Wang:
    - Supporting material
-   -Data collecting
-  
+   - Initial literature review
+ 
+ EVERYONE:
+   - 2 workshops 
+   - Preparation for prototype's demonstration
