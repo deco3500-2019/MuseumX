@@ -27,22 +27,23 @@
 # Project Overview
 ### Problem space 
 
-### Design process
-
 Museums play the essential role in the cultural and educational life of society through interpretation of meanings and preserving the history heritage. However, the last statistics shows that number of visitors in museums is rapidly decreasing (The Baltimore Sun, 2019). Our team has noticed that user experience in museums could be improved through applying new ways of interaction. Initial interviews helped us to identify the problem space and possible ways to approach it. Through interview with an industry expert we discovered that aim of each exhibition is to tell visitors the story behind the objects, whereas users interviews showed people understand the story only if they feel connected towards it or can draw a parallel to their own experience. We identified this gap as a problem space and tried to address it by creating the prototype that could help people feel connected to the art. 
+
+### Design process
 
 To address the problem, we started from literature review about existing applications in this filed and initial interviews with museum expert and regular museum visitors. As was mentioned above, interview showed the difference between various target groups: people who are in art (have deep knowledgeable in this field) and public who has a general understanding of art. These two audiences have completely different attitude to museums and perceiving the information in museums. First group didn’t have any issues with existing format and didn’t like the idea of having extra interactions with the art, having concerns it could spoil the whole impression. In the other side, the second group, would like to have additional features and options to interact within that space. 
 
 Since the first group did not want any changes, we tried to develop our project without creating potential limitations for them, so they still could interact in the usual for them way and to explore new features only if they want to. 
 After finishing the first interview round, we analyzed the results and conducted the second one. We changed the approach and asked not only the visitors, but artists as well. We discovered that artist can help to fill the gap by telling the story by himself, but it is limited function since not all artists can be on the place and translate that meaning behind. Some of the artists even died, so we looked for a way to make people find a connection by themselves. 
-For this reason, we decided to run a co-design workshop aiming to find what exactly makes people feel more connected to the specific artwork. The workshop helped us to identify similarities and people’s reactions to our idea about connecting them through key-words. User testings showed positive feedback and good emotional reactions when visitors saw themselves in the digital version.
+For this reason, we decided to run a co-design workshop aiming to find what exactly makes people feel more connected to the specific artwork. The workshop helped us to identify similarities and people’s reactions to our idea about connecting them through key-words. User testings showed positive feedback and good emotional reactions when visitors saw themselves in the digital version (read more in sections Workshop Design, Workshop Protocol, Workshop process & results).
+
          
 ### Process diagram 
 ![diagram-01](https://user-images.githubusercontent.com/54301507/67487873-121cce00-f6b2-11e9-8a45-0e3cbe88fff5.png)
 ### How Ideas Evolved 
 We generate several ideas based on the insights we gained from literature review and contextual enquiry.
 
-###### stage 1
+###### Stage 1
 The original concept was named “about the artist (token projection)”. This is a pocket-sized tangible projection that would be given to visitors upon entering the gallery. Idea considered having special sockets allocated to each artwork and the gadget would be pluggable to them. After the visitor plugs their gadget into the socket, the token would project background information about artwork and its digital version.
 
 ###### Stage 2 
