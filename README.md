@@ -2,8 +2,9 @@
 [Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
 
 # Prototype
+[Low fidelity Digital prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
 
-[Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
+[Low fidelity Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
 
 [Digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
 
