@@ -58,10 +58,19 @@ Design Workshop Protocol: https://docs.google.com/document/d/1dTj3EC6-76zk9LSGiw
 
 
 ##### Workshop process & results (Chuike)
+
 ##### Final Prototype Deign 
 The goal of the prototype was to provide an opportunity for visitors to evaluate our concept and to understand if the goal of our project in promoting connection will be achieved. To achieve this, team MuseumX decided to imitate the end-to-end scenario starting from the gathering personal data (keywords and photos), their interaction with a tangible device that will guide them through the exhibition, and lastly the experience with a digital version of painting where visitors could see themselves inside the art objects. The idea was to imitate the context by providing an environment that will be close to reality. Therefore artworks were also printed and placed on the walls. To achieve the personalization aspect and later evaluate the connection between participants, the prototype included interaction with the digital screen that will be their first step when they will come to the exhibition. The prototype was created in Figma and comprised of serious steps that guided participants through the initial stages. The interface contained the stage when participants were asked to choose keywords that were initially derived from pictures with pre-established text descriptions related to them. After this stage participant was provided with a digital token (done using Arduino) that vibrated when he/she reached picture connected to him. This stage was imitated through manually triggered vibrations as all keywords led to the same artwork. This was done due to the limited time that the team had between taking a photo and showing a digital picture. Then visitors were provided with digital version of the painting with their photo incorporated in the artwork (done by HTML/CSS/JavaScript). Participants were asked to find the connection and then to read a description related to this specific scene. Each description was prepared in a way to be related to the context of the chosen keyword. 
 
 ##### Results & future improvements (Chuike)
+At the testing of our final prototype our participants expressed that finding themselves in the art is interesting as well as the suspense of not knowing which painting they are in and then to see the connection is exciting. Seeing their faces in the painting did make participants feel a connection to the art.
+
+Onr participant who was a part of our workshop did indicate that he had a much better experience finding himself in the art than placing his own image in the art. It encouraged him to look more closely at other artworks.
+
+Our objective of this project is to help make connections between visitors to the art galleries form connections with artworks. Based on the feedback noted during testing (and as seen in the image below) indicates that users feel connected to the art based on their interaction. A connection however can be subjective to the individual and the type of connections may vary.  It is positive to note that visitors who participated in the final prototype testing did form a connection with the art based on their interaction. One visitor filmed her interaction and another visitor took a photo to share with friends. 
+
+For future developments, a share feature should be considered and tested that allows visitors of art galleries to share their connection with those that are not present at the gallery at that time. A possible idea is presenting an optional post card at the end of the visit that captures the connections made between the visitor and art during their visit. This extends the social aspect of InsideArt beyond the physical location of an art gallery.
+
     
 #### Task allocation (Each)
 Lena Panova: 
