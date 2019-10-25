@@ -1,5 +1,6 @@
 # Team MuseumX
-Read our [Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal) over at our Wiki!
+[Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
+
 # Prototype 
 
 [Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
@@ -48,7 +49,7 @@ Understanding the fact about uniqueness of this feature, we were not sure how us
 
 
     
-#### Task allocation (Each)
+# Task allocation
 Lena Panova: 
   - Analysis of 2nd round interviews
   - Initial protocol of the Design Worshop
