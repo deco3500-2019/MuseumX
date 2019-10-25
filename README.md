@@ -5,7 +5,7 @@
 
 [Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
 
-[digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+[Digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
 
 [Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
 
