@@ -81,3 +81,8 @@ Emma Safarova
  EVERYONE:
    - 2 workshops 
    - Preparation for prototype's demonstration
+   
+###### References
+The Baltimore Sun, 2019. Museum attendance. Baltimore Sun Media Group publication. Retrieved from: [https://www.baltimoresun.com/dp-history-museum-attendance-graphic-graphic.html]
+
+Lanir, J., Wecker, A. J., Kuflik, T., & Felberbaum, Y. (2016). Shared mobile displays: An exploratory study of their use in a museum setting. Personal and Ubiquitous Computing, 20(4), 635–651. https://doi.org/10.1007/s00779-016-0931-y
