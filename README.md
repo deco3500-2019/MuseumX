@@ -68,3 +68,8 @@ Lena Panova:
   - Initial protocol of the Design Worshop
   - Tangible devise (Arduino)
   - Pop-up windows with description (HTML/CSS/JavaScript)
+  
+ Zhijiang Wang:
+   - Supporting material
+   -Data collecting
+  
