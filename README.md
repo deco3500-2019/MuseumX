@@ -57,23 +57,11 @@ Then we put our sights back to the literature review. The study of shared mobile
 ###### Stage4 
 Understanding the fact about uniqueness of this feature, we were not sure how users would accept that. So we conducted a workshop to test their acceptance and collect their feedback. The participants were asked to answer questions that could help us to identify their preferences based on occupation, personal hobbies favorite colors and others. Then we tried to provide artworks with paintings that could relate to them and have familiar stories behind. Regarding the feedbacks, we found out that most participants did not form connections based on the provided description. The description may not have been specifically connected to the keywords provided for the participants in the workshop. So, we decided to find keywords from artwork first by digging a story behind the painting and only then provide users keywords so they can chose what meanings relate to them.
 
-##### Workshop Design
-After the final concept was established and discussed, the team decided to organize a design workshop. The team decided to use this design method in the research as it was considered as a most useful step at this stage of the project which will allow not only to evaluate our idea but also help to invite users to the co-design process. The co-design process was most appropriate at this stage: instead of providing users with possible solutions, it was interesting to get inspirations from users and don’t limit them with the existing ideas. 
-
-Therefore the workshop purpose was to understand:
-- how the digital version of the artwork and ability to explore it digitally (f.e zooming-in/out) 
-- changes users’ emotions/attitude towards the art;
-- how to build a personalization process: questionnaire/ keywords/ other;
-- how to integrate a person in the piece of art;
-- how users perceive the concept, and which things to improve for a better connection of visitor to the artwork.
-
-As a preparation step for the workshop participants were asked to provide their photos and fill in the questionnaire and after answers were collected, pictures that have some connections with the them and relevant descriptions were prepared for each participant.
-
-Design Workshop Protocol: https://docs.google.com/document/d/1dTj3EC6-76zk9LSGiw27iAMTPqj1vOeoQIDVdMwZf0A/edit
+##### [Workshop Design](https://github.com/zhijiang95/MuseumX/wiki/workshop-design)
 
 
 ##### [Workshop process & results](https://github.com/zhijiang95/MuseumX/wiki/Workshop-process-&-results)
-)
+
 ##### [Final Prototype Deign](https://github.com/zhijiang95/MuseumX/wiki/Final-Prototype-Deign)
 
 
