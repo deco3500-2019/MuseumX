@@ -1,4 +1,6 @@
-Elements used:
+<img width="612" alt="Screen Shot 2019-10-25 at 12 56 55 pm" src="https://user-images.githubusercontent.com/54301507/67540027-50080980-f727-11e9-861d-8b7af1c78df6.png">
+
+#### Elements used:
 Arduino small DC motor
 Development Board, Arduino Micro
 IR Receiver
@@ -6,9 +8,9 @@ Mini Controller
 Battery
 5V Single Channel Relay Module
 
-Instructions: Upload sketch, press 1 on the mini controller for the short period vibrations. 
+#### Instructions: Upload sketch, press 1 on the mini controller for the short period vibrations. 
 
-Sketch:
+#### Sketch:
 *
  * Modified by Rui Santos, http://randomnerdtutorialscom
  * based on IRremote Library - Ken Shirriff
