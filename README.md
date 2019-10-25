@@ -16,7 +16,7 @@
 
 [Workshop process & results](https://github.com/zhijiang95/MuseumX/wiki/Workshop-process-&-results)
 
-[Final Prototype Deign](https://github.com/zhijiang95/MuseumX/wiki/Final-Prototype-Deign)
+[Final Prototype Design](https://github.com/zhijiang95/MuseumX/wiki/Final-Prototype-Deign)
 
 [Results & future improvements](https://github.com/zhijiang95/MuseumX/wiki/Future-improvements)
 
