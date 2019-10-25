@@ -1,0 +1,65 @@
+Elements used:
+Arduino small DC motor
+Development Board, Arduino Micro
+IR Receiver
+Mini Controller
+Battery
+5V Single Channel Relay Module
+
+Instructions: Upload sketch, press 1 on the mini controller for the short period vibrations. 
+
+Sketch:
+*
+ * Modified by Rui Santos, http://randomnerdtutorialscom
+ * based on IRremote Library - Ken Shirriff
+*/
+ #include <IRremote.h>
+ 
+int IR_Recv = 7;   //IR Receiver Pin 3
+int relayPin = 12;                   // int relayPin = 3;
+int relayState = LOW;              // int relayState = HIGH;
+ 
+IRrecv irrecv(IR_Recv);
+decode_results results;
+ 
+void setup(){
+  Serial.begin(9600);  //starts serial communication
+  irrecv.enableIRIn(); // Starts the receiver
+  pinMode(IR_Recv, INPUT);
+  digitalWrite(relayPin, relayState);  // configure the initial state of relay
+  pinMode(relayPin, OUTPUT);
+ 
+}
+ 
+void loop(){
+
+  
+  //decodes the infrared input
+ // Serial.println(relayState);
+  if (irrecv.decode(&results)){
+    long int decCode = results.value;
+    Serial.println(results.value);
+    //switch case to use the selected remote control button
+ 
+    switch (results.value){
+      
+       case 16615543: //when you press the 2 button
+        //Serial.println(relayState);
+        relayState = LOW;
+        //Serial.println(relayState);
+        
+        break;           
+       case 16582903: //when you press the 1 button
+        
+          digitalWrite(12, HIGH);   // turn the LED on (HIGH is the voltage level)
+           delay(500);                       // wait for a second
+           digitalWrite(12, LOW);    // turn the LED off by making the voltage LOW
+           delay(200);                       // wait for a second
+        //Serial.println(relayState);
+        break;       
+    }
+    irrecv.resume(); // Receives the next value from the button you press
+  }
+  digitalWrite(relayPin, relayState); 
+  delay(10);
+}
