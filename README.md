@@ -1,9 +1,11 @@
 # Team MuseumX
 [Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
 
-# Prototype 
+# Prototype
 
-[Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+[Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
+
+[digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
 
 [Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
 
@@ -26,9 +28,10 @@
 #### Problem space 
   
 #### Design process
-    how did you tackle this problem? Use images and extended captions to
-    explain the design process and how your ideas evolved. Mention any limitations and
-    relevant theory.
+To address the problem, we started from literature review about existing applications in this filed and initial interviews with museum expert and regular museum visitors. As was mentioned above, interview showed the difference between various target groups: people who are in art (have deep knowledgeable in this field) and public who has a general understanding of art. These two audiences have completely different attitude to museums and perceiving the information in museums. First group didn’t have any issues with existing format and didn’t like the idea of having extra interactions with the art, having concerns it could spoil the whole impression. In the other side, the second group, would like to have additional features and options to interact within that space. 
+Since the first group did not want any changes, we tried to develop our project without creating potential limitations for them, so they still could interact in the usual for them way and to explore new features only if they want to. 
+After finishing the first interview round, we analyzed the results and conducted the second one. We changed the approach and asked not only the visitors, but artists as well. We discovered that artist can help to fill the gap by telling the story by himself, but it is limited function since not all artists can be on the place and translate that meaning behind. Some of the artists even died, so we looked for a way to make people find a connection by themselves. 
+For this reason, we decided to run a co-design workshop aiming to find what exactly makes people feel more connected to the specific artwork. The workshop helped us to identify similarities and people’s reactions to our idea about connecting them through key-words. User testings showed positive feedback and good emotional reactions when visitors saw themselves in the digital version.
          
 ##### Process diagram 
 ![diagram-01](https://user-images.githubusercontent.com/54301507/67487873-121cce00-f6b2-11e9-8a45-0e3cbe88fff5.png)
