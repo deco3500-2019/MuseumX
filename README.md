@@ -27,6 +27,8 @@
 # Project Overview
 ### Problem space 
 
+### Design process
+
 Museums play the essential role in the cultural and educational life of society through interpretation of meanings and preserving the history heritage. However, the last statistics shows that number of visitors in museums is rapidly decreasing (The Baltimore Sun, 2019). Our team has noticed that user experience in museums could be improved through applying new ways of interaction. Initial interviews helped us to identify the problem space and possible ways to approach it. Through interview with an industry expert we discovered that aim of each exhibition is to tell visitors the story behind the objects, whereas users interviews showed people understand the story only if they feel connected towards it or can draw a parallel to their own experience. We identified this gap as a problem space and tried to address it by creating the prototype that could help people feel connected to the art. 
 
 To address the problem, we started from literature review about existing applications in this filed and initial interviews with museum expert and regular museum visitors. As was mentioned above, interview showed the difference between various target groups: people who are in art (have deep knowledgeable in this field) and public who has a general understanding of art. These two audiences have completely different attitude to museums and perceiving the information in museums. First group didn’t have any issues with existing format and didn’t like the idea of having extra interactions with the art, having concerns it could spoil the whole impression. In the other side, the second group, would like to have additional features and options to interact within that space. 
