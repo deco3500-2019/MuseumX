@@ -65,6 +65,7 @@ The goal of the prototype was to provide an opportunity for visitors to evaluate
     
 #### Task allocation (Each)
 Lena Panova: 
+  - Analysis of 2nd round interviews
   - Initial protocol of the Design Worshop
   - Tangible devise (Arduino)
   - Pop-up windows with description (HTML/CSS/JavaScript)
