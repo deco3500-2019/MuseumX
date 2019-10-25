@@ -33,16 +33,16 @@ Zhijiang Wang
   - there are 8 keywords in this prototype (the process can be repeated 8 times)
   
 # Project Overview
-#### Problem space (Emma)
+#### Problem space 
   
 #### Design process
     how did you tackle this problem? Use images and extended captions to
     explain the design process and how your ideas evolved. Mention any limitations and
     relevant theory.
          
-##### Process diagram (Zhijiang)
+##### Process diagram 
 ![diagram-01](https://user-images.githubusercontent.com/54301507/67487873-121cce00-f6b2-11e9-8a45-0e3cbe88fff5.png)
-##### How Ideas Evolved (Zhijiang)
+##### How Ideas Evolved 
 We generate several ideas based on the insights we gained from literature review and contextual enquiry.
 
 ###### stage1
@@ -58,6 +58,8 @@ Then we put our sights back to the literature review. The study of shared mobile
 Understanding the fact about uniqueness of this feature, we were not sure how users would accept that. So we conducted a workshop to test their acceptance and collect their feedback. The participants were asked to answer questions that could help us to identify their preferences based on occupation, personal hobbies favorite colors and others. Then we tried to provide artworks with paintings that could relate to them and have familiar stories behind. Regarding the feedbacks, we found out that most participants did not form connections based on the provided description. The description may not have been specifically connected to the keywords provided for the participants in the workshop. So, we decided to find keywords from artwork first by digging a story behind the painting and only then provide users keywords so they can chose what meanings relate to them.
 
 ##### [Workshop Design](https://github.com/zhijiang95/MuseumX/wiki/workshop-design)
+
+#### [Workshop protocol](https://github.com/zhijiang95/MuseumX/wiki/Workshop-protocol)
 
 
 ##### [Workshop process & results](https://github.com/zhijiang95/MuseumX/wiki/Workshop-process-&-results)
