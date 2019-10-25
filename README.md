@@ -9,11 +9,8 @@ Zhijiang Wang
 ![Zhijiang_final-01](https://user-images.githubusercontent.com/54301507/67284828-b3245100-f519-11e9-84e2-40e98d0f1258.png)
 # Prototype 
 ####
-  -Link to the Figma prototype (Emma)
-  
-  -Link to the Picture Prototype (Chuike)
-  
-  -Link to the Arduino Prototype (Lena)
+Access [Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+
   
   -Instructions for how to deploy and use it, any login credentials; (Emma, Chuike, Lena)
   For picture in Prototype:
@@ -45,16 +42,16 @@ Zhijiang Wang
 ##### How Ideas Evolved 
 We generate several ideas based on the insights we gained from literature review and contextual enquiry.
 
-###### stage1
+###### stage 1
 The original concept was named “about the artist (token projection)”. This is a pocket-sized tangible projection that would be given to visitors upon entering the gallery. Idea considered having special sockets allocated to each artwork and the gadget would be pluggable to them. After the visitor plugs their gadget into the socket, the token would project background information about artwork and its digital version.
 
-###### Stage2 
+###### Stage 2 
 Then our group reviewed this concept from several aspects. Although the projection features enabled user to see more details about the artwork along with its description, there were limitations about this concept. First was the technique issue, it was hard to integrate the projection with the token. Second was the required amount of work, as well as the fact that it was unnecessary for users to carry this device if there is no unique experience.
 
-###### Stage3 
+###### Stage 3 
 Then we put our sights back to the literature review. The study of shared mobile display for this space (Lanir, Wecker, Kuflik, & Felberbaum, 2016) indicated that a shared larger display motivates group cohesion, should everyone participate in a collective tour of the exhibition. The previous research also indicated visitors evoked "rich sensory relationships to some of the tangible objects" and that people valued them as a physical reminder of their interaction in a museum. Based on these insights we developed our concept as a digital screen which allows user to zoom in and zoom out. Also, for making this experience more unique, we added “face into the painting” feature.
 
-###### Stage4 
+###### Stage 4 
 Understanding the fact about uniqueness of this feature, we were not sure how users would accept that. So we conducted a workshop to test their acceptance and collect their feedback. The participants were asked to answer questions that could help us to identify their preferences based on occupation, personal hobbies favorite colors and others. Then we tried to provide artworks with paintings that could relate to them and have familiar stories behind. Regarding the feedbacks, we found out that most participants did not form connections based on the provided description. The description may not have been specifically connected to the keywords provided for the participants in the workshop. So, we decided to find keywords from artwork first by digging a story behind the painting and only then provide users keywords so they can chose what meanings relate to them.
 
 ##### [Workshop Design](https://github.com/zhijiang95/MuseumX/wiki/workshop-design)
