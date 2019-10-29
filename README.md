@@ -1,27 +1,27 @@
 # Team MuseumX
-[Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
+### [Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
 
-[Project Overview](https://github.com/deco3500-2019/MuseumX/wiki/Project-Overview)
+### [Project Overview](https://github.com/deco3500-2019/MuseumX/wiki/Project-Overview)
 
 # Prototype
-[Low fidelity Digital prototype](https://www.figma.com/file/yHFx6LVHbNLGkG8b9pBLkQ/MuseumX?node-id=0%3A1)
+### [Low fidelity Digital prototype](https://www.figma.com/file/yHFx6LVHbNLGkG8b9pBLkQ/MuseumX?node-id=0%3A1)
 
-[Low fidelity Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
+### [Low fidelity Paper prototype](https://github.com/deco3500-2019/MuseumX/wiki/Paper-prototype)
 
-[Digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
+### [Digital Ptototype](https://www.figma.com/file/BUuARt6IHqh5hrz6XehG29/MuseUmX-prototype?node-id=0%3A1)
 
-[Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
+### [Instructions](https://github.com/zhijiang95/MuseumX/wiki/Instructions)
 
 # User Testing
-[Workshop Design](https://github.com/zhijiang95/MuseumX/wiki/workshop-design)
+### [Workshop Design](https://github.com/zhijiang95/MuseumX/wiki/workshop-design)
 
-[Workshop protocol](https://github.com/zhijiang95/MuseumX/wiki/Workshop-protocol)
+### [Workshop protocol](https://github.com/zhijiang95/MuseumX/wiki/Workshop-protocol)
 
-[Workshop process & results](https://github.com/zhijiang95/MuseumX/wiki/Workshop-process-&-results)
+### [Workshop process & results](https://github.com/zhijiang95/MuseumX/wiki/Workshop-process-&-results)
 
-[Final Prototype Design](https://github.com/zhijiang95/MuseumX/wiki/Final-Prototype-Deign)
+### [Final Prototype Design](https://github.com/zhijiang95/MuseumX/wiki/Final-Prototype-Deign)
 
-[Results & future improvements](https://github.com/zhijiang95/MuseumX/wiki/Future-improvements)
+### [Results & future improvements](https://github.com/zhijiang95/MuseumX/wiki/Future-improvements)
 
 
 # Inside Art
