@@ -1,5 +1,6 @@
 # Team MuseumX
 [Proposal](https://github.com/zhijiang95/MuseumX/wiki/Proposal)
+
 [Project Overview](https://github.com/deco3500-2019/MuseumX/wiki/Project-Overview)
 
 # Prototype
