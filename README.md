@@ -24,10 +24,6 @@
 #### [Results & future improvements](https://github.com/zhijiang95/MuseumX/wiki/Future-improvements)
 
 
-# Inside Art
-![Zhijiang_final-01](https://user-images.githubusercontent.com/54301507/67284828-b3245100-f519-11e9-84e2-40e98d0f1258.png)
-
-
     
 # Task allocation
 Lena Panova: 
